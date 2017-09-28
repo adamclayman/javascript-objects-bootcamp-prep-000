@@ -1,7 +1,5 @@
 var playlist = {
-  '': '',
-  '': '',
-  '': '',
+  'Chumbawumba': 'Tubthumper'
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
